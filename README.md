@@ -10,8 +10,8 @@ https://www.youtube.com/watch?v=llF6vD-RljE&t=43s
 
   
 ### Tecnologias utilizadas 💻
-⚫ CSS </br>
-⚫ HTML
+⚫ CSS 3</br>
+⚫ HTML 5
 
 ### Ferramentas: 🔨 </br>
 ⚫ Figma
