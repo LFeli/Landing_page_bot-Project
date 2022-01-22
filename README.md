@@ -10,11 +10,11 @@ https://www.youtube.com/watch?v=llF6vD-RljE&t=43s
 
   
 ### Tecnologias utilizadas 💻
-⚫ CSS 3</br>
-⚫ HTML 5
+<li> HTML 5 </li>
+<li> CSS 3 </li>
 
 ### Ferramentas: 🔨 </br>
-⚫ Figma
+<li> Figma </li>
  
  ### Visualizar o projeto
  
